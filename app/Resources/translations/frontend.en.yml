@@ -261,7 +261,7 @@ fzone:
     header: ""
     bodycopy: "View your active rewards and redeem them by swiping your Club Fun card at any Boot Hill Casino & Resort promotional kiosk during the dates shown below."
     details: "<p><span class=\"goGold\">Player Name</span>: %issuedTo%</p>
-      <p><span class=\"goGold\">Fun Club</span>: %playerscard%</p>
+      <p><span class=\"goGold\">Club Fun</span>: %playerscard%</p>
       <p><span class=\"goGold\">Date Issued</span>: %issued_date%</p>
       <p><span class=\"goGold\">Voucher Id</span>: %vid%</p>
       <p><span class=\"goGold\">Description</span>: %description%</p>
